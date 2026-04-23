@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["Uchio Kondo"]
   spec.email = ["udzura@udzura.jp"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "BF-like esoteric programming language interpreter implemented in Rust and exposed to Ruby."
+  spec.description = "BF-like esoteric programming language interpreter implemented in Rust and exposed to Ruby."
+  spec.homepage = "https://github.com/udzura/foxcall_gem"
   spec.required_ruby_version = ">= 3.2.0"
   spec.required_rubygems_version = ">= 3.3.11"
 
